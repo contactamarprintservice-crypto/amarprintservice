@@ -1,0 +1,6 @@
+{
+  "name": "AMAR CSC CENTER",
+  "description": "Premium Full-Stack Digital Services & CSC Center Portal for amarprintservices.in with multi-role dashboards, dynamic payments, and secure document processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
